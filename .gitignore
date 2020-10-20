@@ -2,3 +2,7 @@
 
 Phone_Stand
 Mobile+Phone+Stand
+
+
+# Ingore .gcode files
+*.gcode
